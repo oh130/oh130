@@ -12,7 +12,7 @@
 |----------|------|------|
 | [Loot & Grow](https://github.com/oh130/loot-and-grow) | Unity 멀티플레이어 RPG · 산학프로젝트 | DB · 서버 · 인게임 시스템 |
 | [GameProjects-Archive](https://github.com/oh130/GameProjects-Archive) | 게임 개발 Legacy Archive | 기획 · 코드 · 디버깅 |
-| [multimodal-search-engine](https://github.com/oh130/multimodal-search-engine) | python 멀티모달 검색 및 멀티 스테이지 추천 시스템 · 캡스톤디자인 | FastAPI 기반 API Gateway |
+| [Fit Find](https://github.com/oh130/fitfind) | 패션 도메인 MultiModal 검색 및 Multi-Stage 추천 시스템 · 캡스톤디자인 | Python FastAPI 기반 API Gateway |
 
 <br>
 
