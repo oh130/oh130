@@ -11,7 +11,7 @@
 | 프로젝트 | 분류 | 역할 |
 |----------|------|------|
 | [Loot & Grow](https://github.com/oh130/loot-and-grow) | Unity 멀티플레이어 RPG · 산학프로젝트 | DB · 서버 · 인게임 시스템 |
-| [GameProjects-Archive](https://github.com/oh130/GameProjects-Archive) | 게임 개발 Legacy Archive | 기획 · 코드 · 디버깅 |
+| [GameProjects-Archive](https://github.com/oh130/GameProjects-Archive) | 게임 개발 레거시 프로젝트 모음집 | 기획 · 코드 · 디버깅 |
 | [Fit Find](https://github.com/oh130/fit-find) | Python FastAPI 기반 검색 및 추천 시스템 · 캡스톤디자인 | API Gateway · 인프라 |
 
 <br>
