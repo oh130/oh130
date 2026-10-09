@@ -8,11 +8,11 @@
 
 | 프로젝트 | 분류 | 역할 |
 |----------|------|------|
-| [Loot & Grow](https://github.com/oh130/loot-and-grow) | Unity 멀티플레이어 RPG · 산학프로젝트 | DB · 서버 · 인게임 시스템 |
-| [Fit Find](https://github.com/oh130/fit-find) | Python FastAPI 기반 검색 및 추천 시스템 · 캡스톤디자인 | API Gateway · 인프라 |
+| [Loot & Grow](https://github.com/oh130/loot-and-grow) | Unity 멀티플레이어 RPG · 산학프로젝트 | DB · 서버 · 인게임 시스템 · CI/CD |
+| [Fit Find](https://github.com/oh130/fit-find) | Python FastAPI 기반 검색 및 추천 시스템 · 캡스톤디자인 | API Gateway · 인프라 · LLM 연동 · 프롬프트 엔지니어링 |
 | [Bank Simulator](https://github.com/oh130/bank-simulator) | Spring Boot · React 기반 은행 계좌 시뮬레이터 | 백엔드 · 프론트엔드 · 인프라 |
-| [Realtime Auction Service](https://github.com/ThreeRoun/Realtime-Auction-Service) | 실시간 경매 서비스 · DevOps 팀 프로젝트 | 팀장 · 경매 엔진 전체 (Spring Boot, 동시 입찰 처리) |
-| [GameProjects-Archive](https://github.com/oh130/GameProjects-Archive) | 게임 개발 레거시 프로젝트 모음집 | 기획 · 코드 · 디버깅 |
+| [Realtime Auction Service](https://github.com/ThreeRoun/Realtime-Auction-Service) | 실시간 경매 서비스 · DevOps 팀 프로젝트 | 팀장 · 백엔드(경매 엔진) · DB 설계 · 이벤트 발행 |
+| [GameProjects-Archive](https://github.com/oh130/GameProjects-Archive) | 게임 개발 레거시 프로젝트 모음집 | 기획 · 개발 |
 
 
 <br>
