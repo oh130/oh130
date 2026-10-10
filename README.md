@@ -65,7 +65,6 @@
 **개발 환경 · 도구**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claudecode&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex_CLI-412991?style=flat&logo=openai&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat)
